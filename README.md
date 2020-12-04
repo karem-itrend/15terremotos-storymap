@@ -1,2 +1,2 @@
-# Valdivia1960-storymap
-Gigapixel Valdivia 1960 StoryMap
+# 15terremotos-storymap
+fondo StoryMap
